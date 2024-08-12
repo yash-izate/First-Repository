@@ -10,7 +10,9 @@
 .
 ⚡ Fun fact: I’m fascinated by artificial intelligence and enjoy reading about the latest advancements in the field.
 
-📫 How to reach me: yashizate.softech@gmail.com or Linkedin : https://www.linkedin.com/in/yash-izate-a13235277
+📫 How to reach me
+Email: yashizate.softech@gmail.com or 
+Linkedin: https://www.linkedin.com/in/yash-izate-a13235277
 
 <!---
 yash-softech01/yash-softech01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
