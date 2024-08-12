@@ -2,7 +2,7 @@
 
 👀 I’m interested in full stack web development and have an interest in Python and Java programming languages.
 
-🌱 I’m currently learning full stack development and   DSA in Java.
+🌱 I’m currently learning Full Stack Development and   Data Structure & Algorithms in Java.
 
 💞️ I’m looking to collaborate on full stack projects.
 
