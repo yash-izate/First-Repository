@@ -6,8 +6,8 @@
 
 💞️ I’m looking to collaborate on full stack projects.
 
-💕  I’m also interested in building innovative web applications that solve real-world problems
-.
+💕  I’m also interested in building innovative web applications that solve real-world problems.
+
 ⚡ Fun fact: I’m fascinated by artificial intelligence and enjoy reading about the latest advancements in the field.
 
 📫 How to reach me
