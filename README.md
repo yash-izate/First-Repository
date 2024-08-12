@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning full stack development and data structures and algorithms (DSA) in Java.
 
-💞️ I’m looking to collaborate on full stack projects, particularly those that use JavaScript frameworks and Java for backend development. 
+💞️ I’m looking to collaborate on full stack projects.
 
 💕  I’m also interested in building innovative web applications that solve real-world problems
 .
