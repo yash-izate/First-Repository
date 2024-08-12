@@ -11,7 +11,9 @@
 ⚡ Fun fact: I’m fascinated by artificial intelligence and enjoy reading about the latest advancements in the field.
 
 📫 How to reach me
-Email: yashizate.softech@gmail.com or 
+
+Email: yashizate.softech@gmail.com or
+
 Linkedin: https://www.linkedin.com/in/yash-izate-a13235277
 
 <!---
