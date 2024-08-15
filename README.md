@@ -8,7 +8,7 @@
 
 💕  I’m also interested in building innovative web applications that solve real-world problems.
 
-⚡ Fun fact: I’m fascinated by artificial intelligence and enjoy reading about the latest advancements in the field.
+⚡ I’m fascinated by artificial intelligence and enjoy reading about the latest advancements in the field.
 
 📫 How to reach me
 
