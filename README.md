@@ -14,7 +14,7 @@
 
 Email: yashizate.softech@gmail.com or
 
-Linkedin: https://www.linkedin.com/in/yash-izate-a13235277
+Linkedin: https://www.linkedin.com/in/yash-softech01
 
 <!---
 yash-softech01/yash-softech01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
