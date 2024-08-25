@@ -1,6 +1,6 @@
 👋 Hi, I’m @yash-softech01
 
-👀 I’m interested in full stack web development and have an interest in Python and Java programming languages.
+👀 I’m interested in full stack web development and familiar with Python and Java programming languages.
 
 🌱 I’m currently learning Full Stack Development and   Data Structure & Algorithms in Java.
 
