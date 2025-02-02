@@ -1,4 +1,4 @@
-👋 Hi, I’m @yash-softech01
+👋 Hi, I’m @yash-izate
 
 👀 I’m interested in full stack web development and familiar with Python and Java programming languages.
 
@@ -14,7 +14,7 @@
 
 Email: yashizate.softech@gmail.com or
 
-Linkedin: https://www.linkedin.com/in/yash-softech01
+Linkedin: https://www.linkedin.com/in/yash-izate
 
 <!---
 yash-softech01/yash-softech01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
